@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/emmanueljoel0" target="blank"><img src="https://img.shields.io/twitter/follow/emmanueljoel0?logo=twitter&style=for-the-badge" alt="emmanueljoel0" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js and Aws Cloud**
+- 🌱 I’m currently learning **new technologies**
 
 - 📝 I regularly write articles on [https://jeocloud.hashnode.dev/](https://jeocloud.hashnode.dev/)
 
-- 💬 Ask me about **Networking, Python, Node.js, and Cloud things**
+- 💬 Ask me about **Networking, Python, Node.js, and AWS**
 
 - 📫 How to reach me **ejoel0035@gmail.com**
 
