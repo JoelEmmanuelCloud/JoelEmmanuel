@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelemmanuelcloud&label=Profile%20views&color=0e75b6&style=flat" alt="joelemmanuelcloud" /> </p>
 
-<p align="left"> <a href="https://twitter.com/emmanueljoel0" target="blank"><img src="https://img.shields.io/twitter/follow/emmanueljoel0?logo=twitter&style=for-the-badge" alt="emmanueljoel0" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/joel-emmanuel-149708202/" target="blank"><img src="https://img.shields.io/twitter/follow/https://www.linkedin.com/in/joel-emmanuel-149708202/?logo=twitter&style=for-the-badge" alt="emmanueljoel0" /></a> </p>
 
 - 🌱 I’m currently learning **new technologies**
 
-- 📝 I regularly write articles on [https://jeocloud.hashnode.dev/](https://jeocloud.hashnode.dev/)
+- 📝 I write articles on [https://jeocloud.hashnode.dev/](https://jeocloud.hashnode.dev/)
 
-- 💬 Ask me about **Networking, Python, Node.js, and AWS**
+- 💬 Ask me about **Networking, Python Django, Node.js, and AWS**
 
 - 📫 How to reach me **ejoel0035@gmail.com**
 
