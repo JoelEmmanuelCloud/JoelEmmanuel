@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joelemmanuelcloud&label=Profile%20views&color=0e75b6&style=flat" alt="joelemmanuelcloud" /> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/joel-emmanuel-149708202/" target="blank"><img src="https://img.shields.io/twitter/follow/https://www.linkedin.com/in/joel-emmanuel-149708202/?logo=twitter&style=for-the-badge" alt="emmanueljoel0" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/joel-emmanuel-149708202/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/joel-emmanuel-149708202" alt="Joel Emmanuel" /></a> </p>
 
 - 🌱 I’m currently learning **new technologies**
 
