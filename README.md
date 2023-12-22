@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joel Emmanuel</h1>
-<h3 align="center">A Passionate Backend Developer</h3>
+<h3 align="center">A Passionate SoftWare Developer</h3>
 <img alt="Could fun" width="400" src="https://static01.nyt.com/images/2014/06/10/technology/NAYSAYERSillo/NAYSAYERSillo-tmagArticle.gif">
 <img align="right" alt="Could fun" width="400" src="https://microcare.co.in/wp-content/uploads/2020/05/af78c8_42d627eade494c27876c393578ac5c80_mv2.gif">
 
@@ -11,11 +11,11 @@
 
 - 📝 I write articles on [https://jeocloud.hashnode.dev/](https://jeocloud.hashnode.dev/)
 
-- 💬 Ask me about **Networking, Python Django, Node.js, and AWS**
+- 💬 Ask me about **Networking, JavaScript, Typescript, React, Python, Django, Rust, solidity, C++, Node.js, and AWS**
 
 - 📫 How to reach me **ejoel0035@gmail.com**
 
-- ⚡ Fun fact **I enjoy learning about new concepts.**
+- ⚡ Fun fact **I enjoy learning.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
