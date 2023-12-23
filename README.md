@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joel Emmanuel</h1>
-<h3 align="center">A Passionate SoftWare Developer</h3>
+<h3 align="center">A Passionate Software Developer</h3>
 <img alt="Could fun" width="400" src="https://static01.nyt.com/images/2014/06/10/technology/NAYSAYERSillo/NAYSAYERSillo-tmagArticle.gif">
 <img align="right" alt="Could fun" width="400" src="https://microcare.co.in/wp-content/uploads/2020/05/af78c8_42d627eade494c27876c393578ac5c80_mv2.gif">
 
