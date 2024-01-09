@@ -11,7 +11,7 @@
 
 - 📝 I write articles on [https://jeocloud.hashnode.dev/](https://jeocloud.hashnode.dev/)
 
-- 💬 Ask me about **Networking, Java, JavaScript, Typescript, React, Python, Django, Rust, solidity, C++, Node.js, and AWS**
+- 💬 Ask me about **Networking, Java, JavaScript, Typescript, React, Python, Django, Node.js, and AWS**
 
 - 📫 How to reach me **ejoel0035@gmail.com**
 
